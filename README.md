@@ -13,7 +13,6 @@ This repository contains MATLAB scripts for "Patient-specific data fusion for ca
                Hawaii, USA, January 4-8, 2016},
   pages     = {321--332},
   year      = {2016},
-  crossref  = {DBLP:conf/psb/2016},
   url       = {http://psb.stanford.edu/psb-online/proceedings/psb16/gligorijevic.pdf},
 }
 ```
