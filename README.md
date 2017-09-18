@@ -4,7 +4,7 @@ This repository contains MATLAB scripts for "Patient-specific data fusion for ca
 # Citing
 ```
 @inproceedings{GligorijevicPSB16,
-author    = {Vladimir Gligorijevic and
+  author    = {Vladimir Gligorijevic and
                No{\"{e}}l Malod{-}Dognin and
                Natasa Przulj},
   title     = {Patient-Specific Data Fusion for Cancer Stratification and Personalised
